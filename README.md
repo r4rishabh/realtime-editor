@@ -1,3 +1,5 @@
+CLICK HERE TO VIEW PROJECT: https://realtime-editor-rds.herokuapp.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -41,7 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-CLICK HERE TO VIEW PROJECT: https://realtime-editor-rds.herokuapp.com/
+
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
